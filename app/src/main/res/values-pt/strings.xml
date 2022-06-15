@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Antistress - Relaxamento Rápido</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_vcontact">Vcontact</string>
+    <string name="action_rate">Calça-nos</string>
+    <string name="action_other">Outras aplicações</string>
+    <string name="action_share">Partilhar</string>
+    <string name="action_email">Email</string>
+    <string name="action_back">Back</string>
+    <string name="action_exit">Exit</string>
+
+
+    <string name="esubject">Carta para Desenvolvedor</string>
+    <string name="echooser">Enviar email</string>
+    <string name="ebody">Mensagem</string>
+
+    <!-- Cordas usadas para fragmentos para navegação -->
+    <string name="first_fragment_label">Bem-vindos</string>
+    <string name="second_fragment_label">Lista de técnicas</string>
+    <string name="next">Próximo</string>
+    <string name="previous"> Anterior</string>
+
+    <string name="hello_first_fragment">Olá primeiro fragmento</string>
+    <string name="hello_second_fragment">Olá segundo fragmento. Arg: %1$s</string>
+    <string name="quot_quot">Крутилка\" Живорада Славинского</string>
+    <string name="quot2">Método de neutralização instantânea de traumas e choques</string>
+    <string name="todo">TODO</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="welcome2">\t Esta aplicação é uma lista de técnicas simples e poderosas para o ajudar a lidar com problemas espirituais tais como stress, medos, dúvidas, pensamentos intrusivos, crenças limitantes e atitudes destrutivas. Todas as técnicas são bem conhecidas e testadas ao longo do tempo. Em regra, são retiradas de NLP e de obras científicas de Zhivorad Slavinsky. Esta ferramenta vai poupar-lhe muito tempo, esforço e dinheiro. Não é necessário ter conhecimentos profundos de psicologia e programação subconsciente. Desejamos-lhe sucesso nos seus treinos!</string>
+    <string name="welcome3">Clique no ecrã para continuar</string>
+
+    <string name="theory">Descrição</string>
+    <string name="theory1">\t A "Spin" de Zhivrad Slavinsky é uma das técnicas mais triviais e eficazes que podem existir. É executada numa questão de segundos, e o resultado é sentido após apenas alguns minutos. Esta ferramenta é eficaz para remover qualquer carga negativa de episódios passados. Tudo o que tem de fazer é identificar o episódio doloroso e classificar o sentimento associado a ele numa escala de 10 pontos. Tudo simples é genial!</string>
+    <string name="theory2">\t A nossa psique tem uma propriedade maravilhosa: quanto menor e mais distante for um objecto, menos significa para nós. Se algo não nos interessa, não nos incomoda. Um ponto pequeno é sempre menos atractivo do que algo grande. Assim, uma forma segura de resolver um problema emocional é rebaixar mecanicamente a sua importância através da distância imaginária, redução e dissolução. É simples como o inferno!</string>
+    <string name="theory3">\t A principal causa de qualquer ansiedade é o excesso de ênfase. É por isso que é bom ser capaz de a baixar. Comparar a importância é uma forma de reduzir a importância do que é preocupante. Essencialmente, a importância é a soma total de toda a negatividade, incluindo medo, descrença em si próprio, idealização, dúvida, e muito mais. Para realizar esta técnica, basta comparar o que é importante no passado, presente e futuro em relação ao problema.</string>
+    <string name="theory4">\t Nos anos 60, os cientistas descobriram o chamado "Efeito Diário". O que é profundamente realizado deixa de afectar a nossa psique. Por esta razão, o hábito do diário pode fazer muito em termos de consciência, equilíbrio mental e maturidade espiritual. Mas ao manter um diário para obter o máximo de resultados, é aconselhável praticar a escrita em aspectos, onde o problema é formulado e decomposto nos seus componentes.</string>
+    <string name="theory5">\t Qualquer conflito interior envolve a luta entre dois motivos, desejos, crenças, e objectivos opostos. Na realidade, muitos problemas espirituais são causados por dualidades. Assim, trabalhar com as polaridades é outra forma de se libertar do que é preocupante. Mas, como regra, não é apenas um par de dualidades que cria um conflito interior. Pode haver várias delas. Por esta razão, é aconselhável considerar mais pares possíveis relacionados com o problema.</string>
+    <string name="theory6">\t Nas nossas vidas precisamos muitas vezes de estabelecer objectivos e alcançá-los. Mas o resultado final e o custo da sua realização dependem muito do estabelecimento de objectivos correctos. As cinco perguntas seguintes irão ajudá-lo a estabelecer objectivos e a aumentar a sua produtividade. Como disse Sun Tzu, estratégia sem táctica é o caminho mais lento para a vitória, e táctica sem estratégia é apenas vaidade antes da derrota.</string>
+
+    <string name="theory7">\t As nossas vidas dependem em grande medida das nossas crenças. Afinal, a maioria das nossas acções são feitas automaticamente sob o controlo da nossa mente subconsciente. Muitas vezes impedimo-nos de alcançar o que queremos com os nossos estereótipos e falta de fé nas nossas capacidades. Esta técnica vai ajudá-lo a soltar as suas crenças limitantes e a aproximar-se do resultado desejado. Muitas vezes uma pessoa bem sucedida distingue-se apenas por uma mentalidade mais livre e mais confiante. </string>
+
+    <string name="theory8">\t Podemos pensar no que não está a funcionar para nós como um problema e como uma tarefa. Quando pensamos numa situação como um problema, concentramo-nos mais no que não está a funcionar e no quão desagradável tudo isto é para nós. Quando pensamos numa situação como um problema, concentramo-nos mais em encontrar uma solução. Na maioria dos casos, pensar na situação como uma tarefa é muito mais útil. Aqui está uma forma sugerida de passar rapidamente uma situação de um "problema" para uma "tarefa.</string>
+    <string name="theory9">\t A técnica Anchor é uma ferramenta que nos permite criar rapidamente reflexos condicionados e utilizá-los em nosso proveito. Por exemplo, para escrever uma boa disposição de modo a activá-la na altura certa e no lugar certo. Para executar esta técnica, basta estar no estado certo, fazer uma âncora pelo toque ou toque, e activá-la repetindo um toque anterior. Note that the anchoring should be as sensitive as possible.</string>
+
+    <string name="theory10">\t In everyday life, we always have to make choices. Often our choices can make a big difference in our future. This technique works well for cases where you have several choices, but have difficulty choosing one. Choices on the Line of Time are good for making long-term predictions of the consequences of each choice. It all comes down to sorting out some issues and looking at the situation more objectively.</string>
+    <string name="theory11">\t Fear is actually a very useful thing-it keeps us out of dangerous places. A child gets burned and does not try to stick his hand into the fire again. Or a passing car beeped loudly and the child realized that these big iron things must be feared. But at the same time, fear must be practiced in order to be able to control oneself in a critical situation - during a fire, excessive fear of fire can be paralyzing, and excessive fear of cars can create a phobia of crossing the street. This technique helps you learn to control your fear.</string>
+    <string name="theory12">\t Sometimes we can not solve do it or do not. For example: to buy or not to buy a car, to marry or not to marry, to change jobs or not to change jobs, and so on. And often you get "hang-ups": it is difficult to evaluate the benefits and losses of each action. NLP has a little model called Cartesian coordinates to make the choice easier. So, you want to make a choice, for example, "to buy or not to buy a car. Imagine a square divided into four parts. On one axis will be "I will get it - I will lose it", on the other "I will do it - I will not do it".</string>
+
+    <string name="main10">A Escolha sobre a técnica da Linha do Tempo</string>
+    <string name="main11">Técnica de Gestão do Medo</string>
+    <string name="main12">A técnica das coordenadas cartesianas</string>
+
+    <string name="sub10">Como fazer a escolha final</string>
+    <string name="sub11">Como aprender a controlar o seu medo</string>
+    <string name="sub12">Decisão final: agir ou não agir</string>
+
+
+    <string name="spin">Remember the episode</string>
+    <string name="spin2">For example, I lost my job.</string>
+    <string name="spin3">What do you feel?</string>
+    <string name="spin4">For example, the devastation</string>
+    <string name="spin5">Rate this feeling on a 10-point scale</string>
+
+    <string name="disappear">Load an image of the object you are concerned about</string>
+    <string name="disappear2">Reduce the transparency and size of the picture until it is completely easy</string>
+    <string name="disappear3">Opacity:</string>
+    <string name="disappear4">Size:</string>
+
+    <string name="comparison">Name the problem</string>
+    <string name="comparison2">Name the things that are important in <b>the past</b> regarding this problem</string>
+    <string name="comparison3">Name the things that are important in <b>the present</b> regarding this problem</string>
+    <string name="comparison4">Name the things that are important in <b>the future</b> regarding this problem</string>
+
+    <string name="polarity">Na esquerda, escreva qualquer negativo e contraponha-o com uma corda positiva</string>
+
+    <string name="five1"> Alguém quer que eu atinja esse objectivo, ou obterei algo de alguém se eu o fizer?</string>
+    <string name="five2">Teria vergonha se não alcançasse esse objectivo?</string>
+    <string name="five3">Pensarei realmente que este é um objectivo importante?</string>
+    <string name="five4">Este objectivo vai trazer-me alegria e prazer?</string>
+    <string name="five5">Faz este propósito reflectir quem eu sou e o que mais valorizo na vida?</string>
+
+    <string name="nothing1">Se fosse possível, como seria?</string>
+    <string name="nothing2">Se fosse possível para alguém, como seria quando você estivesse no seu lugar?</string>
+    <string name="nothing3">Se já lá estiver, o que verá, ouvirá e sentirá?</string>
+    <string name="nothing4">Se estivesse sempre lá agora, como saberia sobre isso?</string>
+    <string name="nothing5">Como é que o que já tem afecta as suas limitações passadas?</string>
+
+    <string name="problem1">O que deseja em relação ao problema?</string>
+
+    <string name="problem2">Qual poderia ser a solução para o problema?</string>
+    <string name="problem3">Quem e o que pode ajudar a resolver o problema?</string>
+    <string name="problem4">O que se pode aprender com ele?</string>
+    <string name="problem5">Se o problema desaparecesse, como o resolveria?</string>
+    <string name="problem6">Se o problema desaparecesse, o que você veria, ouviria e sentiria?</string>
+    <string name="problem7">O que mudaria em si como resultado do desaparecimento do problema?</string>
+    <string name="problem8">O que mudaria no mundo em resultado do desaparecimento do problema?</string>
+    <string name="problem9">O que notariam os outros sobre si se o problema desaparecesse?</string>
+
+    <string name="anchor">âncora</string>
+    <string name="anchor2">Configurar e executar a âncora com este botão</string>
+
+    <string name="fear1">Think back to a situation in which you experienced fear. Determine where it is in your body-most often it feels like a tight ball in your abdomen.</string>
+    <string name="fear2">Feel the ball of fear - now you need to determine which way it is twisted. If it is difficult, try drawing this ball on paper or showing its rotation with your finger.</string>
+    <string name="fear3">Now start unwinding the ball in the opposite direction. As you begin to spin it back, the fear becomes less.</string>
+
+    <string name="time1">What variations do you have?</string>
+    <string name="time2">What term will be affected by the choice made?</string>
+    <string name="time3">To what point do you have to make a choice?</string>
+    <string name="time4">Consider all future events in relation to each choice</string>
+    <string name="time5">Evaluate future paths relative to each choice</string>
+    <string name="time6">How has your perception of the situation changed?</string>
+
+    <string name="decart1">Use Descartes system to analyze all possible options and make a final choice</string>
+    <string name="decart2">What do I get if I dont do</string>
+    <string name="decart3">What do I get if I do</string>
+    <string name="decart4">What will I lose if I dont do</string>
+    <string name="decart5">What will I lose if I do</string>
+
+    <string name="fragment_time">Choice</string>
+    <string name="fragment_decart">Decart</string>
+    <string name="fragment_fear">Fear</string>
+
+    <string name="btnend">Finish</string>
+    <string name="btnsave">Salvar</string>
+    <string name="btnclear">Clear</string>
+    <string name="main1">Tecnica de pinos</string>
+    <string name="sub1">Um método para neutralizar instantaneamente traumas e choques do passado</string>
+
+
+    <string name="main2">NLP - Técnicas para baixar a importância</string>
+    <string name="sub2">Reduzir e distanciar o objecto negativo</string>
+
+    <string name="main3">NLP - Técnica de comparação de valores</string>
+    <string name="sub3">Passado, Presente e Futuro</string>
+
+    <string name="main4">The Diary Effect</string>
+    <string name="sub4"> Elaboração em profundidade de um problema psicológico</string>
+
+    <string name="main5">The Polarities of Zhivrad Slavinsky</string>
+    <string name="sub5">Trabalhar com crenças opostas</string>
+
+    <string name="main6">The Five Questions Technique</string>
+    <string name="sub6">Cinco perguntas para a realização efectiva do objectivo</string>
+
+    <string name="main7">Nada Técnica Impossível</string>
+    <string name="sub7">Increased self-belief</string>
+
+    <string name="main8">The Problem-Task Technique</string>
+    <string name="sub8">Transforma o problema numa tarefa</string>
+
+    <string name="main9">The Anchor Technique</string>
+    <string name="sub9">Regravação e disparo do gatilho</string>
+    <!-- TODO: Remover ou alterar este texto de espaço reservado -->
+    <string name="hello_blank_fragment">Теория</string>
+
+    <string name="fragment_spinner">Spinner</string>
+    <string name="fragment_disappear">Diminuindo</string>
+    <string name="fragment_comparison">Comparação</string>
+    <string name="fragment_word">Diary</string>
+    <string name="fragment_polarity">Polaridades</string>
+    <string name="fragment_five">Questões</string>
+    <string name="fragment_nothing">Questões</string>
+    <string name="fragment_problem">Questões</string>
+    <string name="fragment_settings">Configurações</string>
+    <string name="fragment_anchor">Ancora</string>
+
+
+    <string name="positive">Positivo</string>
+    <string name="negative">Negativo</string>
+    <!-- Títulos de Preferência -->
+
+    <string name="lang">Linguagem</string>
+    <string name="lang2">Sistema</string>
+
+    <string name="theme">tema</string>
+    <string name="theme2">Seleccionar tema</string>
+
+    <string name="adblock">Desactivar anúncios durante 30 minutos</string>
+    <string name="adsummary">Clique para activá-la</string>
+    <string name="adplus">Abra outra técnica</string>
+
+    <string name="version">Versão</string>
+
+    <string name="system">Sistema</string>
+    <string name="light">Light</string>
+    <string name="dark">Escuro</string>
+
+    <string name="delete">Data</string>
+    <string name="delete2">Refinir o progresso para zero</string>
+
+    <string name="deleted">Deleted</string>
+
+    <string name="notifications1">Notificações</string>
+    <string name="notifications2">activar/desactivar notificações</string>
+
+    <string name="ad">Advertisement</string>
+    <string name="main_menu">Menu principal</string>
+
+
+</resources>

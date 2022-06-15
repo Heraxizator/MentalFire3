@@ -1,0 +1,129 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <!--
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="reply"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="reply"
+            app:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="@string/sync_title" />
+
+        <SwitchPreferenceCompat
+            app:dependency="sync"
+            app:key="attachment"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on"
+            app:title="@string/attachment_title" />
+
+    </PreferenceCategory>
+    -->
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_lang"
+        app:key="lang"
+        app:summary="@string/lang2"
+        app:title="@string/lang">
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_color"
+        app:key="themetitle"
+        app:title="@string/theme">
+
+        <ListPreference
+            app:defaultValue="@string/system"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="theme"
+            app:title="@string/theme2"
+            app:useSimpleSummaryProvider="true">
+
+        </ListPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:title="@string/ad"
+        app:icon="@drawable/ic_ad"
+        app:key="adtitle">
+
+        <Preference
+            app:title="@string/adplus"
+            app:summary="@string/adsummary"
+            app:key="plus"
+            >
+
+        </Preference>
+
+        <Preference
+            app:title="@string/adblock"
+            app:summary="@string/adsummary"
+            app:key="block"
+            >
+
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:title="@string/delete"
+        android:icon="@drawable/ic_delete"
+        app:summary="@string/delete2">
+        <Preference
+            app:key="delete"
+            app:title="@string/delete2"
+            app:summary="@string/adsummary">
+
+        </Preference>
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        app:title="@string/notifications1"
+        android:icon="@drawable/ic_notifications">
+        <SwitchPreference
+            app:key="notification"
+            app:defaultValue="true"
+            app:title="@string/notifications2"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+
+        app:title="@string/version"
+        app:key="version"
+        android:icon="@drawable/ic_version"
+        />
+
+
+
+
+
+
+
+
+
+
+</PreferenceScreen>

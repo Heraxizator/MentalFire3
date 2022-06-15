@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.myapp.mentalfire3.FirstFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.myapp.mentalfire3.SecondFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_second">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_theoryFragment"
+            app:destination="@id/theoryFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_spinnerFragment"
+            app:destination="@id/spinnerFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_problemFragment"
+            app:destination="@id/problemFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_polarityFragment"
+            app:destination="@id/polarityFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_disappearFragment"
+            app:destination="@id/disappearFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_comparisonFragment"
+            app:destination="@id/comparisonFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_nothingFragment"
+            app:destination="@id/nothingFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_fiveFragment"
+            app:destination="@id/fiveFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_bookFragment"
+            app:destination="@id/bookFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_anchorFragment"
+            app:destination="@id/anchorFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_timeFragment"
+            app:destination="@id/timeFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_decartFragment"
+            app:destination="@id/decartFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_fearFragment"
+            app:destination="@id/fearFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/theoryFragment"
+        android:name="com.myapp.mentalfire3.TheoryFragment"
+        android:label="@string/hello_blank_fragment"
+        tools:layout="@layout/fragment_theory">
+        <action
+            android:id="@+id/action_theoryFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_spinnerFragment"
+            app:destination="@id/spinnerFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_disappearFragment"
+            app:destination="@id/disappearFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_comparisonFragment"
+            app:destination="@id/comparisonFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_bookFragment"
+            app:destination="@id/bookFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_polarityFragment"
+            app:destination="@id/polarityFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_fiveFragment"
+            app:destination="@id/fiveFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_nothingFragment"
+            app:destination="@id/nothingFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_problemFragment"
+            app:destination="@id/problemFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_anchorFragment"
+            app:destination="@id/anchorFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_fearFragment"
+            app:destination="@id/fearFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_decartFragment"
+            app:destination="@id/decartFragment" />
+        <action
+            android:id="@+id/action_theoryFragment_to_timeFragment"
+            app:destination="@id/timeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/spinnerFragment"
+        android:name="com.myapp.mentalfire3.SpinnerFragment"
+        android:label="@string/fragment_spinner"
+        tools:layout="@layout/fragment_spinner">
+        <action
+            android:id="@+id/action_spinnerFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/disappearFragment"
+        android:name="com.myapp.mentalfire3.DisappearFragment"
+        android:label="@string/fragment_disappear"
+        tools:layout="@layout/fragment_disappear" >
+        <action
+            android:id="@+id/action_disappearFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/comparisonFragment"
+        android:name="com.myapp.mentalfire3.ComparisonFragment"
+        android:label="@string/fragment_comparison">
+        <action
+            android:id="@+id/action_comparisonFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookFragment"
+        android:name="com.myapp.mentalfire3.BookFragment"
+        android:label="@string/fragment_word"
+        tools:layout="@layout/fragment_book">
+        <action
+            android:id="@+id/action_bookFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/polarityFragment"
+        android:name="com.myapp.mentalfire3.PolarityFragment"
+        android:label="@string/fragment_polarity"
+        tools:layout="@layout/fragment_polarity">
+        <action
+            android:id="@+id/action_polarityFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fiveFragment"
+        android:name="com.myapp.mentalfire3.FiveFragment"
+        android:label="@string/fragment_five">
+        <action
+            android:id="@+id/action_fiveFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nothingFragment"
+        android:name="com.myapp.mentalfire3.NothingFragment"
+        android:label="@string/fragment_nothing">
+        <action
+            android:id="@+id/action_nothingFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/problemFragment"
+        android:name="com.myapp.mentalfire3.ProblemFragment"
+        android:label="@string/fragment_problem">
+        <action
+            android:id="@+id/action_problemFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.myapp.mentalfire3.SettingsFragment"
+        android:label="@string/fragment_settings" />
+    <fragment
+        android:id="@+id/anchorFragment"
+        android:name="com.myapp.mentalfire3.AnchorFragment"
+        android:label="@string/fragment_anchor"
+        tools:layout="@layout/fragment_anchor">
+        <action
+            android:id="@+id/action_anchorFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/decartFragment"
+        android:name="com.myapp.mentalfire3.DecartFragment"
+        android:label="@string/fragment_decart"
+        tools:layout="@layout/fragment_decart">
+        <action
+            android:id="@+id/action_decartFragment_to_theoryFragment"
+            app:destination="@id/theoryFragment" />
+        <action
+            android:id="@+id/action_decartFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fearFragment"
+        android:name="com.myapp.mentalfire3.FearFragment"
+        android:label="@string/fragment_fear">
+        <action
+            android:id="@+id/action_fearFragment_to_theoryFragment"
+            app:destination="@id/theoryFragment" />
+        <action
+            android:id="@+id/action_fearFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/timeFragment"
+        android:name="com.myapp.mentalfire3.TimeFragment"
+        android:label="@string/fragment_time">
+        <action
+            android:id="@+id/action_timeFragment_to_theoryFragment"
+            app:destination="@id/theoryFragment" />
+        <action
+            android:id="@+id/action_timeFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+</navigation>

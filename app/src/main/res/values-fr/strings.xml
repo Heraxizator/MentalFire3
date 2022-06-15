@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Antistress - Schnelle Entspannung</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_vcontact">Verkehrskontakt</string>
+    <string name="action_rate">Bewerten Sie uns</string>
+    <string name="action_other">Andere Anwendungen</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_email">E-Mail</string>
+    <string name="action_back">Zurück</string>
+    <string name="action_exit">Beenden</string>
+
+
+    <string name="esubject">Brief für Entwickler</string>
+    <string name="echooser">E-Mail senden</string>
+    <string name="ebody">Mitteilung</string>
+
+    <!-- Strings, die für Fragmente für die Navigation verwendet werden -->
+    <string name="first_fragment_label">Willkommen</string>
+    <string name="second_fragment_label">Liste der Techniken</string>
+    <string name="next">Nächste</string>
+    <string name="previous">Vorheriges</string>
+
+    <string name="hello_first_fragment">Hallo erstes Fragment</string>
+    <string name="hello_second_fragment">Hallo zweites Fragment. Arg: %1$s</string>
+    <string name="quot_quot">Крутилка\" Живорада Славинского</string>
+    <string name="quot2">Methode zur sofortigen Neutralisierung von Traumata und Schocks</string>
+    <string name="todo">TODO</string>
+
+    <string name="welcome">Willkommen</string>
+    <string name="welcome2">Diese Anwendung ist eine Liste einfacher und wirkungsvoller Techniken, die Ihnen helfen, mit seelischen Problemen wie Stress, Ängsten, Zweifeln, aufdringlichen Gedanken, einschränkenden Glaubenssätzen und destruktiven Haltungen umzugehen. Alle Techniken sind bekannt und erprobt. In der Regel sind sie dem NLP und den wissenschaftlichen Arbeiten von Zhivorad Slavinsky entnommen. Dieses Tool wird Ihnen viel Zeit, Mühe und Geld sparen. Sie müssen keine tiefen Kenntnisse in Psychologie und unterbewusster Programmierung haben. Wir wünschen Ihnen viel Erfolg bei Ihrem Training!</string>
+    <string name="welcome3">Klicke auf den Bildschirm, um fortzufahren</string>
+
+    <string name="theory">Beschreibung</string>
+    <string name="theory1">Der "Spin" von Zhivrad Slavinsky ist eine der trivialsten und effektivsten Techniken, die es gibt. Sie wird in Sekundenschnelle durchgeführt, und das Ergebnis ist schon nach wenigen Minuten zu spüren. Mit diesem Werkzeug können Sie jede negative Ladung aus vergangenen Episoden entfernen. Alles, was Sie tun müssen, ist, die schmerzhafte Episode zu identifizieren und das damit verbundene Gefühl auf einer 10-Punkte-Skala zu bewerten. Alles Einfache ist genial!</string>
+    <string name="theory2">\t Unsere Psyche hat eine wunderbare Eigenschaft: Je kleiner und weiter entfernt ein Objekt ist, desto weniger bedeutet es uns. Wenn uns etwas nicht wichtig ist, stört es uns auch nicht. Ein kleiner Punkt ist immer weniger attraktiv als etwas Großes. Ein sicherer Weg, ein emotionales Problem zu lösen, besteht also darin, seine Bedeutung durch imaginäre Entfernung, Verkleinerung und Auflösung mechanisch herabzustufen. Es ist verdammt einfach!</string>
+    <string name="theory3">\t Die Hauptursache für jede Angst ist Überbetonung. Deshalb ist es gut, sie abbauen zu können. Ein Vergleich der Wichtigkeit ist eine Möglichkeit, die Wichtigkeit dessen, was beunruhigt, zu verringern. Im Grunde genommen ist Wichtigkeit die Summe aller Negativität, einschließlich Angst, Unglauben an sich selbst, Idealisierung, Zweifel und mehr. Um diese Technik anzuwenden, vergleichen Sie einfach, was in der Vergangenheit, Gegenwart und Zukunft in Bezug auf das Problem wichtig ist.</string>
+    <string name="theory4">Bereits in den 1960er Jahren entdeckten Wissenschaftler den sogenannten "Tagebuch-Effekt". Was tief im Bewusstsein ist, hört auf, unsere Psyche zu beeinflussen. Aus diesem Grund kann die Gewohnheit, Tagebuch zu führen, viel für das Bewusstsein, das seelische Gleichgewicht und die geistige Reife tun. Aber wenn man ein Tagebuch führt, um maximale Ergebnisse zu erzielen, ist es ratsam, sich darin zu üben, in Aspekte zu schreiben, in denen das Problem formuliert und in seine Bestandteile zerlegt wird.</string>
+    <string name="theory5">\t Jeder innere Konflikt beinhaltet den Kampf zwischen zwei gegensätzlichen Motiven, Wünschen, Überzeugungen und Zielen. In der Tat werden viele geistige Probleme durch Dualitäten verursacht. Die Arbeit mit den Polaritäten ist also eine weitere Möglichkeit, sich von dem zu befreien, was einen belastet. Aber in der Regel ist es nicht nur ein Paar von Dualitäten, das einen inneren Konflikt verursacht. Es können auch mehrere sein. Deshalb ist es ratsam, mehrere mögliche Paare im Zusammenhang mit dem Problem zu betrachten.</string>
+    <string name="theory6">\t In unserem Leben müssen wir uns oft Ziele setzen und sie erreichen. Das Endergebnis und die Kosten der Zielerreichung hängen jedoch sehr stark von der richtigen Zielsetzung ab. Die folgenden fünf Fragen werden Ihnen helfen, Ziele zu setzen und Ihre Produktivität zu steigern. Wie Sun Tzu sagte, ist Strategie ohne Taktik der langsamste Weg zum Sieg, und Taktik ohne Strategie ist nur Eitelkeit vor der Niederlage.</string>
+
+
+
+    <string name="theory7">\t Unser Leben hängt in hohem Maße von unseren Überzeugungen ab. Schließlich laufen die meisten unserer Handlungen automatisch unter der Kontrolle unseres Unterbewusstseins ab. Oft hindern wir uns selbst daran, das zu erreichen, was wir wollen, durch unsere Vorurteile und unseren mangelnden Glauben an unsere Fähigkeiten. Diese Technik wird Ihnen helfen, Ihre einschränkenden Überzeugungen zu lockern und dem gewünschten Ergebnis näher zu kommen. Ein erfolgreicher Mensch zeichnet sich oft nur durch eine freiere und selbstbewusstere Denkweise aus. </string>
+
+    <string name="theory8">\t Wir können das, was für uns nicht funktioniert, als Problem oder als Aufgabe betrachten. Wenn wir eine Situation als Problem betrachten, konzentrieren wir uns mehr auf das, was nicht funktioniert, und darauf, wie unangenehm das alles für uns ist. Wenn wir eine Situation als Problem betrachten, konzentrieren wir uns mehr darauf, eine Lösung zu finden. In den meisten Fällen ist es sehr viel hilfreicher, die Situation als Aufgabe zu betrachten. Hier ist ein Vorschlag, wie man eine Situation schnell von einem "Problem" in eine "Aufgabe" verwandeln kann.</string>
+    <string name="theory9">\t Die Ankertechnik ist ein Werkzeug, das es uns ermöglicht, schnell konditionierte Reflexe zu erzeugen und sie zu unserem Vorteil zu nutzen. Zum Beispiel, um eine gute Stimmung aufzuschreiben, um sie zur richtigen Zeit und am richtigen Ort zu aktivieren. Um diese Technik auszuführen, reicht es aus, sich im richtigen Zustand zu befinden, einen Anker durch Berührung oder Berührung zu setzen und ihn durch Wiederholung einer früheren Berührung auszulösen. Note that the anchoring should be as sensitive as possible.</string>
+
+    <string name="theory10">\t In everyday life, we always have to make choices. Often our choices can make a big difference in our future. This technique works well for cases where you have several choices, but have difficulty choosing one. Choices on the Line of Time are good for making long-term predictions of the consequences of each choice. It all comes down to sorting out some issues and looking at the situation more objectively.</string>
+    <string name="theory11">\t Fear is actually a very useful thing-it keeps us out of dangerous places. A child gets burned and does not try to stick his hand into the fire again. Or a passing car beeped loudly and the child realized that these big iron things must be feared. But at the same time, fear must be practiced in order to be able to control oneself in a critical situation - during a fire, excessive fear of fire can be paralyzing, and excessive fear of cars can create a phobia of crossing the street. This technique helps you learn to control your fear.</string>
+    <string name="theory12">\t Sometimes we can not solve do it or do not. For example: to buy or not to buy a car, to marry or not to marry, to change jobs or not to change jobs, and so on. And often you get "hang-ups": it is difficult to evaluate the benefits and losses of each action. NLP has a little model called Cartesian coordinates to make the choice easier. So, you want to make a choice, for example, "to buy or not to buy a car. Imagine a square divided into four parts. On one axis will be "I will get it - I will lose it", on the other "I will do it - I will not do it".</string>
+
+    <string name="main10">Le choix de la technique de la ligne de temps</string>
+    <string name="main11">Technique de gestion de la peur</string>
+    <string name="main12">La technique des coordonnées cartésiennes</string>
+
+    <string name="sub10">Comment faire le choix final</string>
+    <string name="sub11">Comment apprendre à maîtriser sa peur</string>
+    <string name="sub12">Décision finale : agir ou ne pas agir</string>
+
+
+    <string name="spin">Remember the episode</string>
+    <string name="spin2">For example, I lost my job.</string>
+    <string name="spin3">What do you feel?</string>
+    <string name="spin4">For example, the devastation</string>
+    <string name="spin5">Rate this feeling on a 10-point scale</string>
+
+    <string name="disappear">Load an image of the object you are concerned about</string>
+    <string name="disappear2">Reduce the transparency and size of the picture until it is completely easy</string>
+    <string name="disappear3">Opacity:</string>
+    <string name="disappear4">Size:</string>
+
+    <string name="comparison">Name the problem</string>
+    <string name="comparison2">Name the things that are important in <b>the past</b> regarding this problem</string>
+    <string name="comparison3">Name the things that are important in <b>the present</b> regarding this problem</string>
+    <string name="comparison4">Name the things that are important in <b>the future</b> regarding this problem</string>
+
+    <string name="polarity">Schreiben Sie auf der linken Seite alles Negative auf und setzen Sie ein Positives dagegen</string>
+
+    <string name="five1">Will jemand anderes, dass ich dieses Ziel erreiche, oder werde ich etwas von jemandem bekommen, wenn ich es erreiche?</string>
+    <string name="five2">Würde ich mich schämen, wenn ich dieses Ziel nicht erreiche?</string>
+    <string name="five3">Glaube ich wirklich, dass dies ein wichtiges Ziel ist?</string>
+    <string name="five4">Wird mir dieses Ziel Freude und Vergnügen bereiten?</string>
+    <string name="five5">Spiegelt dieses Ziel wider, wer ich bin und was ich im Leben am meisten schätze?</string>
+
+    <string name="nothing1">Wenn es möglich wäre, wie würde es sein?</string>
+    <string name="nothing2">Wenn es für jemanden möglich wäre, wie wäre es, wenn du an seiner Stelle wärst?</string>
+    <string name="nothing3">Wenn es schon da wäre, was würden Sie sehen, hören und fühlen?</string>
+    <string name="nothing4">Wenn es jetzt schon immer da wäre, wie würden Sie es erkennen?</string>
+    <string name="nothing5">Wie wirkt sich das, was Sie bereits haben, auf Ihre bisherigen Einschränkungen aus?</string>
+
+    <string name="problem1">Was wünschen Sie sich im Zusammenhang mit dem Problem?</string>
+
+    <string name="problem2">Was könnte die Lösung für das Problem sein?</string>
+    <string name="problem3">Wer und was kann zur Lösung des Problems beitragen?</string>
+    <string name="problem4">Was kann man daraus lernen?</string>
+    <string name="problem5">Wenn das Problem verschwinden würde, wie würden Sie es herausfinden?</string>
+    <string name="problem6">Wenn das Problem verschwinden würde, was würden Sie sehen, hören und fühlen?</string>
+    <string name="problem7">Was würde sich an Ihnen ändern, wenn das Problem verschwinden würde?</string>
+    <string name="problem8">Was würde sich in der Welt durch das Verschwinden des Problems ändern?</string>
+    <string name="problem9">Was würden andere an Ihnen bemerken, wenn das Problem verschwinden würde?</string>
+
+
+
+    <string name="anchor">Anker</string>
+    <string name="anchor2">Mit dieser Schaltfläche den Anker setzen und ausführen</string>
+
+    <string name="fear1">Think back to a situation in which you experienced fear. Determine where it is in your body-most often it feels like a tight ball in your abdomen.</string>
+    <string name="fear2">Feel the ball of fear - now you need to determine which way it is twisted. If it is difficult, try drawing this ball on paper or showing its rotation with your finger.</string>
+    <string name="fear3">Now start unwinding the ball in the opposite direction. As you begin to spin it back, the fear becomes less.</string>
+
+    <string name="time1">What variations do you have?</string>
+    <string name="time2">What term will be affected by the choice made?</string>
+    <string name="time3">To what point do you have to make a choice?</string>
+    <string name="time4">Consider all future events in relation to each choice</string>
+    <string name="time5">Evaluate future paths relative to each choice</string>
+    <string name="time6">How has your perception of the situation changed?</string>
+
+    <string name="decart1">Use Descartes system to analyze all possible options and make a final choice</string>
+    <string name="decart2">What do I get if I dont do</string>
+    <string name="decart3">What do I get if I do</string>
+    <string name="decart4">What will I lose if I dont do</string>
+    <string name="decart5">What will I lose if I do</string>
+
+    <string name="fragment_time">Choice</string>
+    <string name="fragment_decart">Decart</string>
+    <string name="fragment_fear">Fear</string>
+
+    <string name="btnend">Fertigstellen</string>
+    <string name="btnsave">Speichern</string>
+    <string name="btnclear">Löschen</string>
+    <string name="main1">Drehtechnik</string>
+    <string name="sub1">Eine Methode zur sofortigen Neutralisierung von Traumata und Schocks aus der Vergangenheit</string>
+
+
+    <string name="main2">NLP - Techniken zur Senkung der Wichtigkeit</string>
+    <string name="sub2">Verringerung und Distanzierung des negativen Objekts</string>
+
+    <string name="main3">NLP - Technik des Wertevergleichs</string>
+    <string name="sub3">Vergangenheit, Gegenwart und Zukunft</string>
+
+    <string name="main4">Der Tagebuch-Effekt</string>
+    <string name="sub4">Gründliche Ausarbeitung eines psychologischen Problems</string>
+
+    <string name="main5">Die Polaritäten von Zhivrad Slavinsky</string>
+    <string name="sub5">Arbeit mit gegensätzlichen Überzeugungen</string>
+
+    <string name="main6">Die Technik der fünf Fragen</string>
+    <string name="sub6">Fünf Fragen zur effektiven Zielerreichung</string>
+
+    <string name="main7">Nichts-unmöglich-Technik</string>
+    <string name="sub7">Steigerung des Selbstvertrauens</string>
+
+    <string name="main8">Die Problem-Aufgaben-Technik</string>
+    <string name="sub8">Übersetzen Sie das Problem in eine Aufgabe</string>
+
+    <string name="main9">Die Ankertechnik</string>
+    <string name="sub9">Aufzeichnung und Triggerung auslösen</string>
+    <!-- TODO: Entfernen oder ändern Sie diesen Platzhaltertext -->
+    <string name="hello_blank_fragment">Теория</string>
+
+    <string name="fragment_spinner">Spinner</string>
+    <string name="fragment_disappear">Abnehmen</string>
+    <string name="fragment_comparison">Vergleich</string>
+    <string name="fragment_word">Tagebuch</string>
+    <string name="fragment_polarity">Polaritäten</string>
+    <string name="fragment_five">Fragen</string>
+    <string name="fragment_nothing">Fragen</string>
+    <string name="fragment_problem">Fragen</string>
+    <string name="fragment_settings">Einstellungen</string>
+    <string name="fragment_anchor">Anker</string>
+
+
+
+    <string name="positive">Positiv</string>
+    <string name="negative">Negativ</string>
+    <!-- Vorzugstitel -->
+
+    <string name="lang">Sprache</string>
+    <string name="lang2">System</string>
+
+    <string name="theme">Thema</string>
+    <string name="theme2">Thema auswählen</string>
+
+    <string name="adblock">Werbung für 30 Minuten ausschalten</string>
+    <string name="adsummary">Klicken Sie, um es zu aktivieren</string>
+    <string name="adplus">Eine andere Technik öffnen</string>
+
+    <string name="version">Version</string>
+
+    <string name="system">System</string>
+    <string name="light">Leicht</string>
+    <string name="dark">Dunkel</string>
+
+    <string name="delete">Daten</string>
+    <string name="delete2">Fortschritt auf Null zurücksetzen</string>
+
+    <string name="deleted">Löschen</string>
+
+    <string name="notifications1">Notifications</string>
+    <string name="notifications2">activer/désactiver les notifications</string>
+
+    <string name="ad">Werbung</string>
+    <string name="main_menu">Hauptmenü</string>
+
+
+</resources>

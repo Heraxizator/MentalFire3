@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Antistress - Fast Relaxation</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_vcontact">Vcontact</string>
+    <string name="action_rate">Rate us</string>
+    <string name="action_other">Other apps</string>
+    <string name="action_share">Share</string>
+    <string name="action_email">Email</string>
+    <string name="action_back">Back</string>
+    <string name="action_exit">Exit</string>
+
+
+    <string name="esubject">Letter for Developer</string>
+    <string name="echooser">Send email</string>
+    <string name="ebody">Message</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Welcome</string>
+    <string name="second_fragment_label">List of techniques</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="quot_quot">Крутилка\" Живорада Славинского</string>
+    <string name="quot2">Method of instantaneous neutralization of trauma and shocks</string>
+    <string name="todo">TODO</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="welcome2">\t This application is a list of simple and powerful techniques to help you deal with spiritual problems such as stress, fears, doubts, intrusive thoughts, limiting beliefs, and destructive attitudes. All of the techniques are well-known and time-tested. As a rule, they are taken from NLP and the scientific works of Zhivorad Slavinsky. This tool will save you time, effort, and money. You are not required to have deep knowledge of psychology and subconscious programming. We wish you success in your workouts!</string>
+    <string name="welcome3">Click the screen to continue</string>
+
+    <string name="theory">Description</string>
+    <string name="theory1">\t The "Spin" by Zhivrad Slavinsky is one of the most trivial and effective techniques that can exist. It is performed in a matter of seconds, and the result is felt after only a couple of minutes. This tool is effective for removing any negative charge from past episodes. All you have to do is identify the painful episode and rate the feeling associated with it on a 10-point scale. Everything simple is genius!</string>
+    <string name="theory2">\t Our psyche has a wonderful property: the smaller and farther an object is, the less it means to us. If something does not matter to us, it does not bother us. A small point is always less attractive than something large. So one sure way to solve an emotional problem is to mechanically downgrade its importance through imaginary distance, reduction, and dissolution. It is simple as hell!</string>
+    <string name="theory3">\t The main cause of any anxiety is overemphasis. That is why it is good to be able to lower it. Comparing importance is one way to reduce the importance of what is troubling. Essentially, importance is the sum total of all negativity, including fear, disbelief in oneself, idealization, doubt, and more. To perform this technique, simply compare what is important in the past, present, and future in relation to the problem.</string>
+    <string name="theory4">\t Back in the 1960s, scientists discovered the so-called "Diary Effect. What is deeply realized ceases to affect our psyche. For this reason, the habit of journaling can do much in terms of awareness, mental balance and spiritual maturity. But when keeping a diary for maximum results, it is advisable to practice writing out into aspects, where the problem is formulated and broken down into its components.</string>
+    <string name="theory5">\t Any inner conflict involves the struggle between two opposing motives, desires, beliefs, and goals. In fact, many spiritual problems are caused by dualities. So working with the polarities is another way to free oneself from what is troubling. But, as a rule, it is not just one pair of dualities that creates inner conflict. There may be several of them. For this reason, it is advisable to consider more possible pairs related to the problem.</string>
+    <string name="theory6">\t In our lives we often need to set goals and achieve them. But the end result and the cost of achieving it depend very much on the right goal setting. The following five questions will help you set goals and increase your productivity. As Sun Tzu said, strategy without tactics is the slowest path to victory, and tactics without strategy is just vanity before defeat.</string>
+
+    <string name="theory7">\t Our lives depend a great deal on our beliefs. After all, most of our actions are done automatically under the control of our subconscious mind. Often we prevent ourselves from achieving what we want with our stereotypes and lack of faith in our abilities. This technique will help you loosen your limiting beliefs and get closer to the desired result. Often a successful person is distinguished only by a freer and more confident mindset. </string>
+
+    <string name="theory8">\t We can think of what is not working for us as a problem and as a task. When we think of a situation as a problem, we focus more on what is not working and how unpleasant it all is for us. When we think of a situation as a problem, we focus more on finding a solution. In most cases, thinking of the situation as a task is much more helpful. Here is a suggested way to quickly move a situation from a "problem" to a "task.</string>
+    <string name="theory9">\t The Anchor technique is a tool that allows us to quickly create conditioned reflexes and use them to our advantage. For example, to write down a good mood in order to activate it at the right time and in the right place. To perform this technique, it is enough to be in the right state, make an anchor by touch or touch, and trigger it by repeating an earlier touch. Note that the anchoring should be as sensitive as possible.</string>
+
+
+    <string name="theory10">\t In everyday life, we always have to make choices. Often our choices can make a big difference in our future. This technique works well for cases where you have several choices, but have difficulty choosing one. Choices on the Line of Time are good for making long-term predictions of the consequences of each choice. It all comes down to sorting out some issues and looking at the situation more objectively.</string>
+    <string name="theory11">\t Fear is actually a very useful thing-it keeps us out of dangerous places. A child gets burned and does not try to stick his hand into the fire again. Or a passing car beeped loudly and the child realized that these big iron things must be feared. But at the same time, fear must be practiced in order to be able to control oneself in a critical situation - during a fire, excessive fear of fire can be paralyzing, and excessive fear of cars can create a phobia of crossing the street. This technique helps you learn to control your fear.</string>
+    <string name="theory12">\t Sometimes we can not solve do it or do not. For example: to buy or not to buy a car, to marry or not to marry, to change jobs or not to change jobs, and so on. And often you get "hang-ups": it is difficult to evaluate the benefits and losses of each action. NLP has a little model called Cartesian coordinates to make the choice easier. So, you want to make a choice, for example, "to buy or not to buy a car. Imagine a square divided into four parts. On one axis will be "I will get it - I will lose it", on the other "I will do it - I will not do it".</string>
+
+    <string name="main10">The Choice on the Timeline technique</string>
+    <string name="main11">Fear Management Technique</string>
+    <string name="main12">The Cartesian coordinates technique</string>
+
+    <string name="sub10">How to make the final choice</string>
+    <string name="sub11">How to learn to control your fear</string>
+    <string name="sub12">Final decision: to act or not to act</string>
+
+    <string name="spin">Remember the episode</string>
+    <string name="spin2">For example, I lost my job.</string>
+    <string name="spin3">What do you feel?</string>
+    <string name="spin4">For example, the devastation</string>
+    <string name="spin5">Rate this feeling on a 10-point scale</string>
+
+    <string name="disappear">Load an image of the object you are concerned about</string>
+    <string name="disappear2">Reduce the transparency and size of the picture until it is completely easy</string>
+    <string name="disappear3">Opacity:</string>
+    <string name="disappear4">Size:</string>
+
+    <string name="comparison">Name the problem</string>
+    <string name="comparison2">Name the things that are important in <b>the past</b> regarding this problem</string>
+    <string name="comparison3">Name the things that are important in <b>the present</b> regarding this problem</string>
+    <string name="comparison4">Name the things that are important in <b>the future</b> regarding this problem</string>
+
+    <string name="polarity">On the left, write down any negative and counter it with a positive</string>
+
+    <string name="five1">Does someone else want me to achieve that goal, or will I get something from someone if I do?</string>
+    <string name="five2">Would I be ashamed if I did not achieve that goal?</string>
+    <string name="five3">Do I really think this is an important goal?</string>
+    <string name="five4">Will this goal bring me joy and pleasure?</string>
+    <string name="five5">Does this purpose reflect who I am and what I value most in life?</string>
+
+    <string name="nothing1">If it were possible, how would it be?</string>
+    <string name="nothing2">If it were possible for someone, what would it be like when you were in their shoes?</string>
+    <string name="nothing3">If it is already there, what will you see, hear, and feel?</string>
+    <string name="nothing4">If it was always there now, how would you know about it?</string>
+    <string name="nothing5">How does what you already have affect your past limitations?</string>
+
+    <string name="problem1">What would you like in connection with the problem?</string>
+
+    <string name="problem2">What could be the solution to the problem?</string>
+    <string name="problem3">Who and what can help solve the problem?</string>
+    <string name="problem4">What can you learn from it?</string>
+    <string name="problem5">If the problem disappeared, how would you figure it out?</string>
+    <string name="problem6">If the problem disappeared, what would you see, hear, and feel?</string>
+    <string name="problem7">What would change about you as a result of the problem disappearing?</string>
+    <string name="problem8">What would change in the world as a result of the disappearance of the problem?</string>
+    <string name="problem9">What would others notice about you if the problem disappeared?</string>
+
+    <string name="anchor">Anchor</string>
+    <string name="anchor2">Set and run the anchor with this button</string>
+
+
+    <string name="fear1">Think back to a situation in which you experienced fear. Determine where it is in your body-most often it feels like a tight ball in your abdomen.</string>
+    <string name="fear2">Feel the ball of fear - now you need to determine which way it is twisted. If it is difficult, try drawing this ball on paper or showing its rotation with your finger.</string>
+    <string name="fear3">Now start unwinding the ball in the opposite direction. As you begin to spin it back, the fear becomes less.</string>
+
+    <string name="time1">What variations do you have?</string>
+    <string name="time2">What term will be affected by the choice made?</string>
+    <string name="time3">To what point do you have to make a choice?</string>
+    <string name="time4">Consider all future events in relation to each choice</string>
+    <string name="time5">Evaluate future paths relative to each choice</string>
+    <string name="time6">How has your perception of the situation changed?</string>
+
+    <string name="decart1">Use Descartes system to analyze all possible options and make a final choice</string>
+    <string name="decart2">What do I get if I dont do</string>
+    <string name="decart3">What do I get if I do</string>
+    <string name="decart4">What will I lose if I dont do</string>
+    <string name="decart5">What will I lose if I do</string>
+
+    <string name="fragment_time">Choice</string>
+    <string name="fragment_decart">Decart</string>
+    <string name="fragment_fear">Fear</string>
+
+    <string name="btnend">Finish</string>
+    <string name="btnsave">Save</string>
+    <string name="btnclear">Clear</string>
+    <string name="main1">Spin technique</string>
+    <string name="sub1">A method for instantly neutralizing trauma and shocks from the past</string>
+
+
+    <string name="main2">NLP - Techniques for Lowering Importance</string>
+    <string name="sub2">Reducing and distancing the negative object</string>
+
+    <string name="main3">NLP - Technique of comparing values</string>
+    <string name="sub3">Past, Present, and Future</string>
+
+    <string name="main4">The Diary Effect</string>
+    <string name="sub4">In-depth elaboration of a psychological problem</string>
+
+    <string name="main5">The Polarities of Zhivrad Slavinsky</string>
+    <string name="sub5">Working with opposing beliefs</string>
+
+    <string name="main6">The Five Questions Technique</string>
+    <string name="sub6">Five questions for effective goal attainment</string>
+
+    <string name="main7">Nothing Impossible Technique</string>
+    <string name="sub7">Increased self-belief</string>
+
+    <string name="main8">The Problem-Task Technique</string>
+    <string name="sub8">Translate the problem into a task</string>
+
+    <string name="main9">The Anchor Technique</string>
+    <string name="sub9">Trigger recording and triggering</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Теория</string>
+
+    <string name="fragment_spinner">Spinner</string>
+    <string name="fragment_disappear">Decreasing</string>
+    <string name="fragment_comparison">Comparison</string>
+    <string name="fragment_word">Diary</string>
+    <string name="fragment_polarity">Polarities</string>
+    <string name="fragment_five">Questions</string>
+    <string name="fragment_nothing">Questions</string>
+    <string name="fragment_problem">Questions</string>
+    <string name="fragment_settings">Settings</string>
+    <string name="fragment_anchor">Anchor</string>
+
+    <string name="positive">Positive</string>
+    <string name="negative">Negative</string>
+    <!-- Preference Titles -->
+
+    <string name="lang">Language</string>
+    <string name="lang2">System</string>
+
+    <string name="theme">Theme</string>
+    <string name="theme2">Select theme</string>
+
+    <string name="adblock">Turn off ads for 30 minutes</string>
+    <string name="adsummary">Click to activate it</string>
+    <string name="adplus">Open another technique</string>
+
+    <string name="version">Version</string>
+
+    <string name="system">System</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+    <string name="delete">Data</string>
+    <string name="delete2">Reset progress to zero</string>
+
+    <string name="deleted">Deleted</string>
+
+    <string name="notifications1">Notifications</string>
+    <string name="notifications2">On/Off notifications</string>
+
+    <string name="ad">Advertisement</string>
+    <string name="main_menu">Main menu</string>
+
+
+</resources>

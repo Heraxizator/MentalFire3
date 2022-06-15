@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DecartFragment">
+
+    <TextView
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/imprima"
+        android:gravity="center"
+        android:text="@string/decart1"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/topLeft"
+                style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+                android:layout_width="147dp"
+                android:layout_height="250dp"
+
+                android:layout_weight="1"
+                android:background="@drawable/topleft"
+                android:gravity="top|left"
+                android:hint="@string/decart2"
+                android:importantForAutofill="no"
+                android:inputType="textMultiLine"
+                android:minWidth="48dp"
+                android:minHeight="48dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:scrollIndicators="none"
+                android:scrollbars="none"
+                android:textColor="@color/cardview_dark_background"
+                android:textColorHighlight="@color/yellow"
+                android:textColorHint="@color/black"
+                android:textColorLink="@color/yellow"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <EditText
+                android:id="@+id/topRight"
+                style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+                android:layout_width="147dp"
+                android:layout_height="250dp"
+
+                android:layout_weight="1"
+                android:background="@drawable/topright"
+                android:gravity="top|left"
+                android:hint="@string/decart3"
+                android:importantForAutofill="no"
+                android:inputType="textMultiLine"
+                android:minWidth="48dp"
+                android:minHeight="48dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:scrollIndicators="none"
+                android:scrollbars="none"
+                android:textColor="@color/cardview_dark_background"
+                android:textColorHighlight="@color/yellow"
+                android:textColorHint="@color/black"
+                android:textColorLink="@color/yellow"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/bottomLeft"
+                style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+                android:layout_width="147dp"
+                android:layout_height="250dp"
+
+                android:layout_weight="1"
+                android:background="@drawable/bottomleft"
+                android:gravity="top|left"
+                android:hint="@string/decart4"
+                android:importantForAutofill="no"
+                android:inputType="textMultiLine"
+                android:minWidth="48dp"
+                android:minHeight="48dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:scrollIndicators="none"
+                android:scrollbars="none"
+                android:textColor="@color/cardview_dark_background"
+                android:textColorHighlight="@color/yellow"
+                android:textColorHint="@color/black"
+                android:textColorLink="@color/yellow"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <EditText
+                android:id="@+id/bottomRight"
+                style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+                android:layout_width="147dp"
+                android:layout_height="250dp"
+
+                android:layout_weight="1"
+                android:background="@drawable/bottomright"
+                android:gravity="top|left"
+                android:hint="@string/decart5"
+                android:importantForAutofill="no"
+                android:inputType="textMultiLine"
+                android:minWidth="48dp"
+                android:minHeight="48dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:scrollIndicators="none"
+                android:scrollbars="none"
+                android:textColor="@color/cardview_dark_background"
+                android:textColorHighlight="@color/yellow"
+                android:textColorHint="@color/black"
+                android:textColorLink="@color/yellow"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+        </TableRow>
+
+    </TableLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

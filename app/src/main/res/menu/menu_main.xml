@@ -1,0 +1,63 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.myapp.mentalfire3.MainActivity">
+
+    <item
+        android:title="@string/main_menu"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_more">
+        <menu>
+            <item
+                android:id="@+id/action_settings"
+                android:title="@string/action_settings"
+                android:icon="@drawable/ic_settings"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_rate"
+                android:title="@string/action_rate"
+                android:icon="@drawable/ic_rate"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_other"
+                android:title="@string/action_other"
+                android:icon="@drawable/ic_apps"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_share"
+                android:title="@string/action_share"
+                android:icon="@drawable/ic_share"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_email"
+                android:title="@string/action_email"
+                android:icon="@drawable/ic_email"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_vcontact"
+                android:title="@string/action_vcontact"
+                android:icon="@drawable/ic_vk"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_back"
+                android:title="@string/action_back"
+                android:icon="@drawable/ic_back"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_exit"
+                android:title="@string/action_exit"
+                android:icon="@drawable/ic_close"
+                app:showAsAction="never"/>
+
+
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/anchor.xml" value="0.3165" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/anchorborder.xml" value="0.3165" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/border.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/border2.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/border3.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/bottomleft.xml" value="0.4375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/bottomright.xml" value="0.4375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/decart.xml" value="0.4375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_ad.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_apps.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_back.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_bold.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_button.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_circle.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_close.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_color.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_decrease.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_delete.xml" value="0.3165" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_description.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_download.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_email.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_grade.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_grade2.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_increase.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_italic.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_lang.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_list1.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_list2.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_logo.xml" value="0.314" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_notifications.xml" value="0.4375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_rate.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_settings.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_share.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_shop.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_underlined.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_version.xml" value="0.397" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_vibrate.xml" value="0.5205" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/ic_vk.xml" value="0.437" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/shadow.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/splash.xml" value="0.314" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/topleft.xml" value="0.4375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/drawable/topright.xml" value="0.4375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/font/abril_fatface.xml" value="0.34921875" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/content_main.xml" value="0.305859375" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_anchor.xml" value="0.23515625" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_book.xml" value="0.4569746376811594" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_comparison.xml" value="0.4390625" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_decart.xml" value="0.32274590163934425" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_disappear.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_fear.xml" value="0.308203125" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_first.xml" value="0.3482587064676617" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_five.xml" value="0.4390625" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_fullscreen.xml" value="0.458786231884058" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_item.xml" value="0.4569746376811594" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_item_list.xml" value="0.4569746376811594" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_nothing.xml" value="0.4390625" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_polarity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_problem.xml" value="0.3382022471910112" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_second.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_spinner.xml" value="0.45516304347826086" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_theory.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/fragment_time.xml" value="0.308203125" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/list_item.xml" value="0.45390781563126253" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/polarity.xml" value="0.458786231884058" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/layout/word_item.xml" value="0.4569746376811594" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/menu/menu_main.xml" value="0.329296875" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/mipmap-anydpi-v26/ic_1.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3395" />
+        <entry key="..\:/Users/suhof/AndroidStudioProjects/MentalFire3/app/src/main/res/xml/root_preferences.xml" value="0.329296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
